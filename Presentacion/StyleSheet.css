@@ -1,0 +1,36 @@
+﻿*{
+  margin:0px;
+  padding:0px;
+}
+
+body{
+  background-color: #0094ff;
+}
+
+.logo{
+  font-family: Verdana, Calibri;
+  font-size: 30px;
+  color:aliceblue;
+  letter-spacing:4px;
+  line-height:75px;
+  margin-bottom:15px;
+  background-color: #0094ff;
+  float:left;
+}
+
+#Menu1{
+  margin-left:5px;
+  background-color: #96d0fa;
+}
+
+table{
+  border-spacing: 5px;
+}
+
+h1{
+  font-family: Verdana, Calibri;
+}
+
+h3{
+  font-family: Calibri;
+}

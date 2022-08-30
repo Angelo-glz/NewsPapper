@@ -1,0 +1,27 @@
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\bin\Debug\Persistencia.dll
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\bin\Debug\Persistencia.pdb
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\bin\Debug\EntidadesCompartidas.dll
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.dll
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.pdb
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\bin\Debug\Persistencia.dll
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\bin\Debug\Persistencia.pdb
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\bin\Debug\EntidadesCompartidas.dll
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.dll
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.pdb
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Persistencia\bin\Debug\Persistencia.dll
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Persistencia\bin\Debug\Persistencia.pdb
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Persistencia\bin\Debug\EntidadesCompartidas.dll
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Persistencia\bin\Debug\EntidadesCompartidas.pdb
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.dll
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Persistencia\obj\Debug\Persistencia.pdb

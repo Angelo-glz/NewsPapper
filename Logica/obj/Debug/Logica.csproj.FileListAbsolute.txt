@@ -1,0 +1,33 @@
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\Logica.dll
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\Logica.pdb
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\EntidadesCompartidas.dll
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\Persistencia.dll
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\EntidadesCompartidas.pdb
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\Persistencia.pdb
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.csproj.CopyComplete
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.dll
+W:\Users\Lyneth\Desktop\BIOS\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.pdb
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\Logica.dll
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\Logica.pdb
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\EntidadesCompartidas.dll
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\Persistencia.dll
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\EntidadesCompartidas.pdb
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\bin\Debug\Persistencia.pdb
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.csproj.CopyComplete
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.dll
+W:\Users\Lyneth\Desktop\BIOS\Diseño 1\Obligatorio 1\Obligatorio\ObligatorioBiosNews\Logica\obj\Debug\Logica.pdb
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\bin\Debug\Logica.dll
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\bin\Debug\Logica.pdb
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\bin\Debug\EntidadesCompartidas.dll
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\bin\Debug\Persistencia.dll
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\bin\Debug\EntidadesCompartidas.pdb
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\bin\Debug\Persistencia.pdb
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\obj\Debug\Logica.csprojAssemblyReference.cache
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\obj\Debug\Logica.csproj.CopyComplete
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\obj\Debug\Logica.dll
+E:\www\ObligatorioBiosNews\ObligatorioBiosNews\Logica\obj\Debug\Logica.pdb
